@@ -1,0 +1,13 @@
+{
+  "name": "TestTask",
+  "version": "0.0.1",
+  "description": "scrape comments",
+  "main": "server.js",
+  "author": "SobolRR",
+  "dependencies": {
+    "cheerio": "*",
+    "express": "*",
+    "extfs": "0.0.7",
+    "request": "*"
+  }
+}
